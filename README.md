@@ -46,6 +46,14 @@ Sarsapirilla.fill(document.querySelector('.sasp'));
 Sarsapirilla.parse('[obj|car]');
 ```
 
+### Wordpress Plugin
+
+Zip Sarsapirilla folder and upload to dashboard
+
+### Updating Images
+
+Upload new images to unsplash folder and run scan
+
 ---
 
 License: GPL
